@@ -1,0 +1,180 @@
+2023-12-07T06:45:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\woocommerce\archive-product.php(20): get_header('shop')
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:08+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\woocommerce\archive-product.php(20): get_header('shop')
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\woocommerce\archive-product.php(20): get_header('shop')
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\index.php(17): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:47:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:48:39+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\index.php(17): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:48:41+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:48:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\404.php(12): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
+2023-12-07T06:48:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php:49
+Stack trace:
+#0 C:\xampp\htdocs\webbershop\wp-includes\template.php(790): require_once()
+#1 C:\xampp\htdocs\webbershop\wp-includes\template.php(725): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\webbershop\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\index.php(17): get_header()
+#4 C:\xampp\htdocs\webbershop\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\webbershop\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\webbershop\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\webbershop\wp-content\themes\webbershp\header.php on line 49
+
